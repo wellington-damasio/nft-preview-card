@@ -28,7 +28,7 @@ Users should be able to:
 ![](./screenshots/nft-preview-card.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Website](https://github.com/wellington-damasio/nft-preview-card/settings/pages)
 
 ## My process
 
